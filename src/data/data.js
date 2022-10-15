@@ -33,7 +33,7 @@ import youtube from "../assets/youtube.svg";
 import messenger from "../assets/messenger.svg";
 
 const heroapi = {
-  title: "Pratique com o tênis elétrico da Nike",
+  title: "Conheça o tênis elétrico da Nike",
   subtitle: "Nike Adapt 2.0",
   img: heroimg,
   btntext: "Ver Mais",
