@@ -2,7 +2,8 @@ import React from "react";
 import Card from "./utils/Card";
 import Title from "./utils/Title";
 
-const Sales = ({ endpoint: { title, items, ifExists } }) => {
+const Sales = ({ ifExists , endpoint: { title, items } }) => {
+  
   return (
     <>
       <div>
