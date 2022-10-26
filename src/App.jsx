@@ -1,4 +1,5 @@
 import React from "react";
+// Components Imports
 import {
   FlexContent,
   Hero,
@@ -8,6 +9,8 @@ import {
   Navbar,
   Cart,
 } from "./components";
+
+// API DATA
 import {
   heroapi,
   popularsales,
