@@ -17,7 +17,7 @@ const CartEmpty = ({ onCartToogle }) => {
           onClick={onCartToogle}
         >
           <ArrowLeftIcon />
-          <span className="">Volte Para A Loja</span>
+          <span className="">Back to Store</span>
         </button>
       </div>
     </>
