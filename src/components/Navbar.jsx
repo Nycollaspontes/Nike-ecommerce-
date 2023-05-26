@@ -12,7 +12,6 @@ const Navbar = () => {
   const [navState, SetNavState] = useState(false);
   const dispatch = useDispatch();
   const totalQTY = useSelector(selectTotalQty);
-  console.log(totalQTY)
 
   const onCartToggle = () => {
     dispatch(
