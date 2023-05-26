@@ -33,10 +33,10 @@ import youtube from "../assets/youtube.svg";
 import messenger from "../assets/messenger.svg";
 
 const heroapi = {
-  title: "Conheça o tênis elétrico da Nike",
-  subtitle: "Nike Adapt 2.0",
+  title: "Step into the future of footwear with the",
+  subtitle: "Nike Adapt BB 2.0",
   img: heroimg,
-  btntext: "Ver Mais",
+  btntext: "Show more",
   videos: [
     { imgsrc: vcover1, clip: clip },
     { imgsrc: vcover2, clip: clip },
