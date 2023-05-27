@@ -5,3 +5,10 @@ O projeto foi desenvolvido utilizando Next.js como framework para renderização
 ![Popular Sales](https://github.com/Nycollaspontes/Assets/blob/master/Nike/nike2.png)
 ![Top rated](https://github.com/Nycollaspontes/Assets/blob/master/Nike/nike3.png)
 ![Cart](https://github.com/Nycollaspontes/Assets/blob/master/Nike/nike4.png)
+
+
+
+
+Autor : Nycollas Pontes 
+![Author](https://github.com/Nycollaspontes/Assets/blob/master/Minhafoto%20(2).jpeg)
+
