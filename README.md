@@ -1,7 +1,7 @@
 # Nike-ecommerce-  
 O projeto foi desenvolvido utilizando Next.js como framework, Redux para gerenciamento de estado global, consumindo uma API própria no front-end. O estilo foi implementado utilizando Tailwind CSS, e o carrossel de imagens foi construído com Splide e o Lodash para trabalhar com Arrays e Objetos .
 
-Link da aplicação : https://nycollaspontesportfolio.vercel.app/  
+Link da aplicação : https://nike-ecommerce-eta.vercel.app/
 
 # Tecnologias Utilizadas: 
 
