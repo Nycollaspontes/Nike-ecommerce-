@@ -10,5 +10,6 @@ O projeto foi desenvolvido utilizando Next.js como framework para renderização
 
 
 Autor : Nycollas Pontes 
+
 ![Author](https://github.com/Nycollaspontes/Assets/blob/master/Minhafoto%20(2).jpeg)
 
